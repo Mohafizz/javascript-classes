@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1519829457330" clover="3.2.0">
+  <project timestamp="1519829457330" name="All files">
+    <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0" elements="8" coveredelements="1" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1">
+      <file name="Rectangle.js" path="/Users/mohamedhafiz/Jumpstart/Week1/Day3/javascript-classes/javascript-classes/src/Rectangle.js">
+        <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>

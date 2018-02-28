@@ -1,5 +1,3 @@
-module.exports = Rectangle;
-
 class Rectangle {
   constructor(breadth, length) {
     this.breadth = breadth;
@@ -14,8 +12,4 @@ class Rectangle {
   }
 }
 
-var a = new Rectangle(2, 4);
-a.area();
-a.perimeter();
-console.log("a.perimeter();: ", a.perimeter());
-console.log("a.area();: ", a.area());
+module.exports = Rectangle;
