@@ -3,7 +3,6 @@ class Rectangle {
     this.breadth = breadth;
     this.length = length;
   }
-
   area() {
     return this.length * this.breadth;
   }
