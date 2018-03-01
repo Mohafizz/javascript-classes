@@ -3,16 +3,20 @@ class SimpleCalculator {
     this.value = value;
   }
   add(addValue) {
-    return (this.value += addValue);
+    this.value += addValue;
+    return this;
   }
   subtract(subtractValue) {
-    return (this.value -= subtractValue);
+    this.value -= subtractValue
+    return this;
   }
   multiply(multiplyValue) {
-    return (this.value *= multiplyValue);
+    this.value *= multiplyValue
+    return this;
   }
   divide(divideValue) {
-    return (this.value /= divideValue);
+    this.value /= divideValue;
+    return this;
   }
 }
 module.exports = SimpleCalculator;
